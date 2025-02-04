@@ -11,16 +11,6 @@ This project simulates the possible outcomes of a football match using a Poisson
 - Highlights the most probable outcome.
 - Saves and processes the heatmap image.
 
-## Technologies Used
-
-- **Python**
-- **NumPy**
-- **Pandas**
-- **Seaborn**
-- **Matplotlib**
-- **Pillow (PIL)**
-- **OS**
-
 ## How It Works
 
 1. **Simulation Function (`simulation(url)`):**
